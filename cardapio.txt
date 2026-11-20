@@ -9,3 +9,7 @@ Bebidas
 Coca-Cola - R$ 6,00
 Suco de Laranja - R$ 8,00
 Água - R$ 4,00
+
+Contato
+Endereço: Rua das Flores, 123 - Centro
+Telefone: (71) 99999-9999
