@@ -1,4 +1,4 @@
-lanchonete novo
+lanchonete novo mundo 
 
 Lanches
 Hambúrguer - R$ 17,00
@@ -8,4 +8,8 @@ Misto Quente - R$ 10,00
 Bebidas
 Coca-Cola - R$ 6,00
 Suco de Laranja - R$ 8,00
-Água - R$ 3,00
+Água - R$ 4,00
+
+Contato
+Endereço: Rua das Flores, 123 - Centro
+Telefone: (71) 99999-9999
