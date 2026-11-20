@@ -4,3 +4,8 @@ Lanches
 Hambúrguer - R$ 15,00
 X-Salada - R$ 18,00
 Misto Quente - R$ 10,00
+
+Bebidas
+Coca-Cola - R$ 6,00
+Suco de Laranja - R$ 8,00
+Água - R$ 3,00
