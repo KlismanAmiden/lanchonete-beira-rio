@@ -1,1 +1,6 @@
 lanchonete novo
+
+Lanches
+Hambúrguer - R$ 15,00
+X-Salada - R$ 18,00
+Misto Quente - R$ 10,00
